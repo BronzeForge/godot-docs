@@ -1,6 +1,6 @@
-.. _doc_using_tilemaps:
+.. _doc_navigation2d_with_square_tilemaps:
 
-Using TileMaps
+Using Navigation2D with Square TileMaps
 ==============
 
 Introduction
